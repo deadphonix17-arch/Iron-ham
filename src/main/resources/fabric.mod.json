@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "overgeared_hammers",
+  "version": "${version}",
+  "name": "Overgeared Hammers Addon",
+  "description": "Adds Iron Smithing Hammer Head, Steel Smithing Hammer, and makes copper armor forge-only from copper plates.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["dev.addon.hammers.HammersAddon"] },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "overgeared": "*"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "overgeared:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "overgeared:steel_hammer_head" },
+    { "item": "minecraft:stick" }
+  ],
+  "result": { "item": "overgeared_hammers:steel_smithing_hammer" }
+}

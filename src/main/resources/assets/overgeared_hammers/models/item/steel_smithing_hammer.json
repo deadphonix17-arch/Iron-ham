@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": { "layer0": "overgeared_hammers:item/steel_smithing_hammer" }
+}
